@@ -1,0 +1,1 @@
+# example of <b>api integreation using postman and json placeholder</b>
